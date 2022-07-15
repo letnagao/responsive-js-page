@@ -13,7 +13,7 @@ Social Media Application using React with CSS3 & Node.js.
 
 </ul><h2> Preview ⚡️</h2>
 <p align="center">
-  <video src="https://user-images.githubusercontent.com/99754900/179309929-0dc17939-b4e7-4254-b8db-843c40424728.mp4" />
+  <video src="https://user-images.githubusercontent.com/99754900/179310338-ae1a55c4-d28d-42fe-8495-49bb57fc49b4.mp4" />
 </p> 
 
 
