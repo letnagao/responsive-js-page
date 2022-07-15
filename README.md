@@ -11,12 +11,11 @@ Social Media Application using React with CSS3 & Node.js.
 [![GitHub watchers](https://img.shields.io/github/watchers/letnagao/social-media-app?logo=GitHub)](https://github.com/letnagao/responsive-js-page/watchers)
 ![Maintained](https://img.shields.io/maintenance/yes/9999)
 
-<!-- </ul><h2> Preview ⚡️</h2>
+</ul><h2> Preview ⚡️</h2>
 <p align="center">
-  <img src=""" />
-</p>   -->
+  <video src="https://user-images.githubusercontent.com/99754900/179309929-0dc17939-b4e7-4254-b8db-843c40424728.mp4" />
+</p> 
 
-## Website 💻
 
 ## Technologies used 🛠️
 **Design**: *CSS3 & HTML*<br />
