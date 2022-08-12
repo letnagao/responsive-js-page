@@ -1,7 +1,7 @@
 # responsive-js-page
 
 ## Responsive JS Page ✨
-Social Media Application using React with CSS3 & Node.js.
+Social Media Application using JS with CSS3 & HTML only.
 
 ![Language count](https://img.shields.io/github/languages/count/letnagao/responsive-js-page?color=green)
 ![Top language](https://img.shields.io/github/languages/top/letnagao/responsive-js-page?color=ff69b4)
@@ -17,10 +17,15 @@ Social Media Application using React with CSS3 & Node.js.
 </p> 
 
 
-## Technologies used 🛠️
-**Design**: *CSS3 & HTML*<br />
-
-## Usage 📋
+</ul><h2>Technologies Used 🛠️</h2>
+<ul>
+<li>HTML</li>
+</ul><ul>
+<li>CSS</li>
+</ul><ul>
+<li>JS</li>
+  
+</ul><h2>Usage 📋</h2>
 <details open>
 <summary>1. Server Setup</summary>
 
