@@ -1,5 +1,3 @@
-# responsive-js-page
-
 ## Responsive JS Page ✨
 Social Media Application using JS with CSS3 & HTML only.
 
