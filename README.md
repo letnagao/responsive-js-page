@@ -9,11 +9,13 @@ Social Media Application using JS with CSS3 & HTML only.
 [![GitHub watchers](https://img.shields.io/github/watchers/letnagao/social-media-app?logo=GitHub)](https://github.com/letnagao/responsive-js-page/watchers)
 ![Maintained](https://img.shields.io/maintenance/yes/9999)
 
-</ul><h2> Preview ⚡️</h2>
-<p align="center">
-  <video src="https://user-images.githubusercontent.com/99754900/179310338-ae1a55c4-d28d-42fe-8495-49bb57fc49b4.mp4" />
-</p> 
 
+</ul><h2> Preview ⚡️</h2>
+<table align="center">
+  <tr>
+    <td><video src="https://user-images.githubusercontent.com/99754900/179310338-ae1a55c4-d28d-42fe-8495-49bb57fc49b4.mp4" width=1280 height=800></td>
+  </tr>
+</table>
 
 </ul><h2>Technologies Used 🛠️</h2>
 <ul>
